@@ -20,4 +20,15 @@ Steps Taken
 
 8. Extensive research was conducted on VPN encryption methods and privacy features.
 
+Summary of the benefits and limitations of VPNs:
+
+Benefits:
+Enhanced Privacy: VPNs mask your IP address and encrypt your internet traffic, making it difficult for ISPs, hackers, and others to track your online activity and location.
+Secure Communication: By creating an encrypted tunnel, a VPN protects your data from being intercepted while in transit, which is especially useful on public Wi-Fi networks.
+
+Limitations:
+Reduced Speed: The encryption process and the distance to the VPN server can slow down your internet connection.
+Not Complete Anonymity: While a VPN significantly boosts privacy, it doesn't offer complete anonymity. A user can still be identified through other methods like browser fingerprinting or by logging into accounts.
+Provider Logging: Not all VPN providers adhere to a "no-log" policy, meaning some may still record your activity.
+No Protection from All Threats: A VPN is not a catch-all solution; it does not protect you from threats like phishing, malware, or viruses.
 
